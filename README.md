@@ -7,11 +7,19 @@
 
 ## Setup/Installation Requirements
 
+1. Install OpenGL for <br/>
+##### a. [C++](https://www.khronos.org/opengl/wiki/Getting_Started) 
 Link the following libraries to your project
 
 ```bash
 g++ -o main main.cpp -lGL -lGLU -lglut
 ```
+
+##### b. [Python](https://pypi.org/project/PyOpenGL/) <br/>
+
+
+
+
 ## Output Images
 ### 1. Example
 a. Example before cliping <br>
